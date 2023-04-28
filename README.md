@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechCreep
-- 👀 I’m interested to say hello world
-- 🌱 I’m currently learning to say it to my fellow creeps
+- 👀 I’m interested to say hello world in your language
+- 🌱 I’m currently learning about my fellow creeps as a scrum master
 - 💞️ I’m looking to collaborate on open source community
 - 📫 How to reach me, well, find me.
 
